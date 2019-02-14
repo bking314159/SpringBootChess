@@ -1,0 +1,8 @@
+chess\json\DefaultBoardGenerator.class
+chess\json\Board.class
+chess\backend\BoardMover.class
+chess\json\Board$Move.class
+chess\json\Board$Square.class
+chess\servlet\BoardController.class
+chess\json\Board$Square$Piece.class
+app\Application.class
